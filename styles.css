@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(121, 115, 115);
+  }
+  h1 {
+    color: #fff12eee;
+    text-align: center;
+    font-size: 500%;
+  }
+  h2 {
+    color:rgb(49, 18, 223);
+    text-align: center;
+    font-size: 400%;
+  }
+  p {
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+  } 
+  img {
+    width: 540px; 
+    height: 590px;
+  }
+  .img1 {
+    width: 450px; 
+    height: 690px;
+    padding: 0px 0px 0px 0px;
+    transform: rotate(-90deg);
+  }
+  .img2 {
+    width: 450px; 
+    height: 690px;
+    margin-right: 90px;
+  }
+  .LeftPics {
+    margin: auto;
+    float: left;
+  }
+  .RightPics {
+    margin-top: -245px;
+    float: right;
+    margin-right: -850px;
+  }
+  .Information {
+   margin: auto;
+   width: 60%;
+  }
+  .Link {
+    clear: both;
+  }
+  .MiddleSection {
+    height: 1200px;
+    width: 1500px;
+  }
